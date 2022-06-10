@@ -6,3 +6,8 @@ The program takes in a starting point and a target route length and then evolves
 # To run the project:
 
 The program consists of two files. The first file, jsoncsvtest.core, takes the points and their attributes which are in a JSON file, and makes them into a vector of maps. In order to run the program, load this file into the REPL first. The other file, routeabout-final.core, contains the genetic program. This file also includes the functions used for the dummy data set. When the user runs the program, they should input the population size, number of generation, starting point, and target distance. The target distance is in meters, so we recommend inputting a number over 200, so the program can evolve a loop. I have included the start of the process to export the segments into a map but it is not fully complete.
+
+# The Data
+
+<img width="451" alt="Screen Shot 2022-06-10 at 1 46 27 PM" src="https://user-images.githubusercontent.com/59592139/173122683-b706333e-2f5f-4b44-aaa6-b0f3b85a63eb.png"> 
+<img width="604" alt="Screen Shot 2022-06-10 at 1 46 43 PM" src="https://user-images.githubusercontent.com/59592139/173122600-78f46c99-dacc-46ce-9024-9e632554cba6.png">
