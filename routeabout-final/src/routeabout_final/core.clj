@@ -331,8 +331,8 @@
 
 
 ;;----------- Functions Using Cities Instead of Segments -----------
-;; Clojure code for an evolutionary algorithm for traveling salesman problems
-;; Lee Spector
+;; Clojure code for an evolutionary algorithm for dummy data of western Mass cities
+
 
 #_(def all-cities [:amherst :northampton :greenfield :north-adams :springfield :holyoke :ashfield :belchertown])
 
